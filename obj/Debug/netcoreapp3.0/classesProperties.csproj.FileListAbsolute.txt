@@ -1,0 +1,11 @@
+C:\Users\hugo.santamaria\Documents\NetCore\classesProperties\bin\Debug\netcoreapp3.0\classesProperties.exe
+C:\Users\hugo.santamaria\Documents\NetCore\classesProperties\bin\Debug\netcoreapp3.0\classesProperties.deps.json
+C:\Users\hugo.santamaria\Documents\NetCore\classesProperties\bin\Debug\netcoreapp3.0\classesProperties.runtimeconfig.json
+C:\Users\hugo.santamaria\Documents\NetCore\classesProperties\bin\Debug\netcoreapp3.0\classesProperties.runtimeconfig.dev.json
+C:\Users\hugo.santamaria\Documents\NetCore\classesProperties\bin\Debug\netcoreapp3.0\classesProperties.dll
+C:\Users\hugo.santamaria\Documents\NetCore\classesProperties\bin\Debug\netcoreapp3.0\classesProperties.pdb
+C:\Users\hugo.santamaria\Documents\NetCore\classesProperties\obj\Debug\netcoreapp3.0\classesProperties.csprojAssemblyReference.cache
+C:\Users\hugo.santamaria\Documents\NetCore\classesProperties\obj\Debug\netcoreapp3.0\classesProperties.AssemblyInfoInputs.cache
+C:\Users\hugo.santamaria\Documents\NetCore\classesProperties\obj\Debug\netcoreapp3.0\classesProperties.AssemblyInfo.cs
+C:\Users\hugo.santamaria\Documents\NetCore\classesProperties\obj\Debug\netcoreapp3.0\classesProperties.dll
+C:\Users\hugo.santamaria\Documents\NetCore\classesProperties\obj\Debug\netcoreapp3.0\classesProperties.pdb
